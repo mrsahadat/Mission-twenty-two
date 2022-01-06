@@ -162,7 +162,7 @@ a{  text-decoration: none;
 /* 5th section-css */
 .from {
     width: 90%;
-    margin: 0 auto;
+    margin: 5px 35px;
 }
 .save{
     display: flex; 
