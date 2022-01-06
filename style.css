@@ -159,6 +159,53 @@ a{  text-decoration: none;
 
 /* 4th section-css-end */
 
+/* 5th section-css */
+.from {
+    width: 90%;
+    margin: 0 auto;
+}
+.save{
+    display: flex; 
+}
+.photo img{
+    border-radius: 25px;
+    height:90%;
+    width:85%;
+}
+.saving{
+    margin-bottom:50px;
+    color:black;
+    padding: 40px ;
+    border-radius: 25px;
+    background-image: linear-gradient(rgb(95, 235, 200),#e3f15f);
+    width: 100%;
+   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+}
+.message-btn{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon,#f44336);
+    color:black;
+    font-family: 'Barlow', sans-serif;
+    border: none;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size:14px;
+    padding:10px 20px;}
+
+.from h1{
+    color:red;
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+.from p{
+    font-size: 18px;
+    color:rgb(160, 8, 231);
+    font-family: 'Poppins', sans-serif;
+}
+
+/* 5th section-css-end */
+
+
 
 footer{
     background: black;
@@ -171,5 +218,5 @@ footer span{
     color: #37e6d7;
 }
 footer h3{
-    font-family: 'Righteous', cursive;
+    font-family: 'Barlow', sans-serif;
 }
