@@ -1,0 +1,136 @@
+*{
+	margin: 0;
+}
+.con{
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 70px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 18px;
+    margin-top: 26px;
+    margin-bottom: 20px;
+}
+.mission-color{
+    color: violet;
+}
+.header-area{
+    border-left: 4px solid cyan;
+    padding-left: 15px;
+}
+.misson-dis{
+    display: flex;
+}
+.mission-main{
+    width: 40%;
+}
+.my-image img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    display: block;
+    
+}
+a{  text-decoration: none;
+    background-color: crimson;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+
+
+
+.mission-2022{
+    margin-top: 50px;
+}
+.section-top h1{
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.year{
+    color: coral ;
+}
+.box-head{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 60px;
+    
+}
+.mission{
+    width: 25%;
+    background-color: #1ABC9C;
+    padding: 20px;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    box-shadow: 5px 10px 30px #7c6a6afa;
+       
+}
+.vission{
+    width: 25%;
+    background-color: #CEA0E4;
+    padding: 20px;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    box-shadow: 5px 10px 30px #7c6a6afa;
+}
+.goal{
+    width: 25%;
+    background-color: #FF8CC8;
+    padding: 20px;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    box-shadow: 5px 10px 30px #7c6a6afa;
+}
+.box-title {
+    font-size: 30px;
+    margin-top: 10px;
+    text-align: left;
+}
+.box-img{
+    width: 50%;
+}
+
+
+
+
+
+
+
+.dev-sec{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 35px;
+}
+.shape{
+    background-image: url(image/shapes/shape-1.png);
+    background-position: 18px 165px;
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+.third-sec-img{
+    width: 40%;
+}
+
+.third-sec-img img{
+    width: 80%;
+    border-radius: 20px;
+}
+.d-text{
+    width: 50%;
+    
+}
+.d-text h2{
+    font-weight: 800px;
+}
